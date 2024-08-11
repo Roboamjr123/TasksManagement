@@ -24,5 +24,9 @@
   <ItemGroup>
     <ProjectReference Include="..\DataLibrary\DataLibrary.csproj" />
   </ItemGroup>
+	
+  <ItemGroup>
+    <Folder Include="Dtos\weww\" />
+  </ItemGroup>
 
 </Project>
